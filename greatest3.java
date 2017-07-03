@@ -8,13 +8,13 @@ int a=sc.nextInt();
 int b=sc.nextInt();
 int c=sc.nextInt();
 if(a>b&&a>c){
-	System.out.println("The largest is "+a);
+	System.out.println("The greatest is "+a);
 }
 else if(b>a&&b>c){
-	System.out.println("The largest is "+b);
+	System.out.println("The greatest is "+b);
 }
 else{
-	System.out.println("The largest is "+c);
+	System.out.println("The greatest is "+c);
 }
 sc.close();
 	}
